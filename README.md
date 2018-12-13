@@ -33,7 +33,7 @@ fix the bugs in the original KDA codes
       return ( merged )
    }
 
-   # get nodes   
+     
    ineighbors <- union( merged[,1] , merged[,2] )
 
    if (nlayers==1){                                                  ##Part2: It seems like we can never visit this part
