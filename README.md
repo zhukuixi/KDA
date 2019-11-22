@@ -1,4 +1,6 @@
 # KDA
+C1
+
 fix the bugs in the original KDA codes
 
  Bug 1: (early terminate network expandsion)
